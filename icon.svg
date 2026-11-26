@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" rx="112" fill="#090b12"/>
+  <rect x="24" y="24" width="464" height="464" rx="96" fill="none" stroke="#c6ff55" stroke-opacity="0.35" stroke-width="8"/>
+  <text x="256" y="245" text-anchor="middle" font-family="Arial, sans-serif" font-weight="900" font-size="136" fill="#f7f8fc" letter-spacing="-6">DUDU</text>
+  <text x="256" y="365" text-anchor="middle" font-family="Arial, sans-serif" font-weight="900" font-size="112" fill="#c6ff55" letter-spacing="-3">KINO</text>
+</svg>
